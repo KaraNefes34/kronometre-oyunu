@@ -55,7 +55,7 @@ WHAT IS NEW?
 
 AUTHOR
 -====-
-Sizenko Alexander
+Gürkan Turan
 Style-7
 http://www.styleseven.com
 Created: October 7 2008
